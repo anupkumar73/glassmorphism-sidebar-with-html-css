@@ -5,6 +5,8 @@ A sleek, fully responsive slide-out sidebar menu built using pure HTML and CSS w
 
 A modern, fluid, and responsive sidebar menu built with **100% Pure HTML & CSS**. This project showcases how to create dynamic UI interactions, like slide-out menus and toggles, without relying on JavaScript.
 
+**Live Demo:** https://anupkumar73.github.io/glassmorphism-sidebar-with-html-css/
+
 ## ✨ Features
 - **Glassmorphism UI:** Translucent background with a smooth border-shadow effect.
 - **Pure CSS Toggle:** Uses the CSS checkbox hack (`#check:checked ~ .sidebar_menu`) for opening/closing.
